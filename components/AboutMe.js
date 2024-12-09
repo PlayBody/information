@@ -5,6 +5,226 @@ export default function AboutMe() {
       <p>
         I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
         on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
+        I'm Jordan Jones, a Senior Software Engineer with expertise in AI, robotics, and scalable systems. I thrive
+        on solving complex problems with cutting-edge technologies.
       </p>
     </section>
   );

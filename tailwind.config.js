@@ -4,12 +4,15 @@ module.exports = {
     extend: {
       colors: {
         ocean: {
-          light: '#7FDBFF',
+          light: '#a7e8f9',
           DEFAULT: '#0074D9',
-          dark: '#001F3F',
+          dark: '#003459',
         },
+      },
+      boxShadow: {
+        subtle: '0 2px 4px rgba(0, 0, 0, 0.1)',
       },
     },
   },
-  darkMode: 'class', // Enable dark mode
+  darkMode: 'class', // Enables toggling between dark and light modes
 };
